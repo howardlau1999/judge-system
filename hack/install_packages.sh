@@ -4,6 +4,7 @@ apt install $1 \
   pylint \
   pylint3 \
   clang \
+  gperf \
   libclang-dev \
   libcurl4-openssl-dev \
   curl \

@@ -19,3 +19,4 @@ apt install $1 \
   ninja-build \
   git \
   pkg-config
+

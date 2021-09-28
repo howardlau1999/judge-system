@@ -3,7 +3,6 @@ apt update
 apt install $1 \
   pylint \
   pylint3 \
-  libcgroup-dev \
   clang \
   libclang-dev \
   libcurl4-openssl-dev \
@@ -16,7 +15,6 @@ apt install $1 \
   cmake \
   libgtest-dev \
   libmariadb-dev-compat \
-  libseccomp-dev \
   libprotobuf-dev \
   ninja-build \
   git \
